@@ -5,7 +5,7 @@ Lecturer: [Dr Sheehan Olver](https://www.ma.imperial.ac.uk/~solver/)
 
 Office hour: Thursdays, 16:00–17:00, Huxley 6M40
 
-## [Notes](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/raw/main/notes/notes.pdf) up to Week 4
+## [Notes](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/raw/main/notes/notes.pdf) up to Week 6
 
 ## Weekly Material
 
@@ -21,14 +21,22 @@ Submit labs/problem sheets to <a href="mailto:venkata.melanathuru19@imperial.ac.
    - [Lab 3](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab3.ipynb) ([Solution](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab3s.ipynb))
    - [Sheet 3](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet3.pdf) ([Solution](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet3s.pdf))
 4. II.3 Interval Arithmetic and III.1 Structured Matrices
-   - [Lab 4](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab4.ipynb)
-   - [Sheet 4](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet4.pdf)
+   - [Lab 4](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab4.ipynb) ([Solution](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab4s.ipynb))
+   - [Sheet 4](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet4.pdf) ([Solution](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet4s.pdf))
+5. III.2 LU and PLU Factorisations and III.3 Cholesky Factorisation
+   - [Lab 5](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab5.ipynb) ([Solution](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab5s.ipynb))
+   - [Sheet 5](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet5.pdf) ([Solution](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet5s.pdf))
+6. III.4 Orthogonal and Unitary Matrices and III.5 QR Factorisation
+   - [Lab 6](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab6.ipynb)
+   - [Sheet 6](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet6.pdf)
+
 
 
 ## Assessment
 
-1. Mock computer-based exam: TBA
-2. Computer-based exam: TBA
+1. SEW familiarisation session: 7 March
+2. Mock computer-based exam
+2. Computer-based exam: 14 March, 10:00–12:00 (1 hour exam)
 5. Final exam (pen-and-paper, 80% of term mark): TBA
 
 
